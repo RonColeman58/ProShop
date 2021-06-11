@@ -1,1 +1,1 @@
-# ProShop
+Name was changed from "ProShop"
